@@ -1,4 +1,4 @@
-#VID1
+#1
 library(tidyverse)
 
 data()
@@ -48,7 +48,7 @@ mpg %>%
   theme_bw()
   
 
-#VID2
+#2
 library(tidyverse)
 data()
 ?mpg
@@ -70,7 +70,7 @@ mpg %>%
 
 
 
-#VID3
+#3
 library(tidyverse)
 library(forcats)
 data()
@@ -95,7 +95,7 @@ theme_bw()+
        y = NULL,
        title + "Histogram of total sleep")
 
-#VID4
+#4
 library(tidyverse)
 data()  
 view(msleep)
